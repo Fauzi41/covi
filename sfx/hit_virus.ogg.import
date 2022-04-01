@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/hit_virus.ogg-52f83d2b5d3ebde262c28e21eb83f941.oggstr"
+
+[deps]
+
+source_file="res://assets/sfx/hit_virus.ogg"
+dest_files=[ "res://.import/hit_virus.ogg-52f83d2b5d3ebde262c28e21eb83f941.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
